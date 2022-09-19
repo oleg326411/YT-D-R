@@ -1,0 +1,7 @@
+### Pyton template
+# Byte compiled / optymized / DLL files
+__pycache__
+*.py[cod]
+docer-compose.yaml
+log/
+resourse/product.json
